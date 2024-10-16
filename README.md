@@ -7,8 +7,6 @@
   <li><a href="#fonctionnalités">Fonctionnalités</a></li>
   <li><a href="#technologies-utilisées">Technologies utilisées</a></li>
   <li><a href="#installation">Installation</a></li>
-  <li><a href="#utilisation">Utilisation</a></li>
-  <li><a href="#contact">Contact</a></li>
 </ol>
 
 ---
@@ -55,4 +53,4 @@
 <p>Clonez le dépôt :</p>
 
 ```bash
-git clone https://github.com/hlal-ikram/Nlp-recrutement.git
+git clone https://github.com/assiaaitjeddi/NLP-for-Recruitment.git
