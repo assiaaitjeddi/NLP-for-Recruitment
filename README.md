@@ -1,7 +1,7 @@
 #  NLP Recrutement 
 
 
-##  Table des matières
+## 📚 Table des matières
 <ol>
   <li><a href="#description">Description</a></li>
   <li><a href="#fonctionnalités">Fonctionnalités</a></li>
@@ -11,7 +11,7 @@
 
 ---
 
-###  <a id="description"></a> Description
+### ✨ <a id="description"></a> Description
 <p><strong>NLP Recrutement</strong> est une application innovante qui utilise le traitement du langage naturel (NLP) pour faciliter le processus de recrutement. Elle permet aux recruteurs de créer des offres d'emploi et aux candidats de soumettre leur CV. L'application calcule la similarité entre les CVs et les offres d'emploi, optimisant ainsi le processus de sélection.</p>
 
 ---
